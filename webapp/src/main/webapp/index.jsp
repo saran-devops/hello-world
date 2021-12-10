@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Registration for Tomcat Learning</h1>
     <h2>Welcome to the new page of the webserver</h2>
+    <h3>Have a fabulous day!!</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
